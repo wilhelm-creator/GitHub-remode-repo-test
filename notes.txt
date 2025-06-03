@@ -1,3 +1,5 @@
 git init //for initializing repository
 git add <file>
 git commit -m "your commit massage"
+git status
+git add .
