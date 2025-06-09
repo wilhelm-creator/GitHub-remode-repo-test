@@ -4,3 +4,5 @@ git commit -m "your commit massage"
 git status
 git add .
 get reset --soft HEAD~1
+get reset --mixed HEAD~1
+get reset --hard HEAD~1
