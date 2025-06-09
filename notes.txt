@@ -3,3 +3,4 @@ git add <file>
 git commit -m "your commit massage"
 git status
 git add .
+get reset --soft HEAD~1
