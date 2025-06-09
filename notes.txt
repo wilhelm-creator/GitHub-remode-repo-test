@@ -7,3 +7,4 @@ get reset --soft HEAD~1
 get reset --mixed HEAD~1
 get reset --hard HEAD~1
 git revert commitID
+git revert commited
